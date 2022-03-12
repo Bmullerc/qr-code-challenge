@@ -25,8 +25,6 @@ The designs were created to the following widths:
 - Family: [Outfit](https://fonts.google.com/specimen/Outfit)
 - Weights: 400, 700 */
 
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@900&family=Open+Sans:ital,wght@0,400;0,700;1,400&family=Outfit:wght@400;700&display=swap');
-
 :root {
     --white: hsl(0, 0%, 100%);
     --lgray: hsl(212, 45%, 89%);
