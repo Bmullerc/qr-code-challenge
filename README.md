@@ -8,11 +8,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## My process
 
-1- Doing the basic HTML
-2- Thinking about the layout structure and how to get as close as possible using css.
-3- Adding a few classes and elements according to the layout in my head.
-4- Importing the font and creating color vars
-5- Start working on the CSS itself
+- Doing the basic HTML
+- Thinking about the layout structure and how to get as close as possible using css.
+- Adding a few classes and elements according to the layout in my head.
+- Importing the font and creating color vars
+- Start working on the CSS itself
 
 ### Built with
 
